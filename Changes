@@ -1,0 +1,6 @@
+Revision history for Perl extension Pod::WSDL::Attr.
+
+0.01  Mon May 23 20:36:40 2005
+	- original version; created by h2xs 1.23 with options
+		-A -X Pod::WSDL::Attr
+
